@@ -1,0 +1,62 @@
+body{
+    font-family: 'Amatic SC', cursive;
+    color:#ffffff;
+    background-color:#493737;
+    font-size: 18px;
+
+}
+.container{
+    margin: 50px 25px;
+}
+.container .hi{
+    height: 600px;
+}
+
+.container .hi .row .col-sm p{
+    margin-top: 100px;
+    font-size: 18px;
+    text-align:justify;
+}
+
+.container .hi p::first-line{
+    font-size: 34px;
+    font-weight: 700;
+}
+.container a img{
+    border-radius:100%;
+}
+.container .col-sm{
+    width: 50%;
+}
+
+.container .col-sm .col .row{
+    height:600px;
+    width: 700px;
+}
+.container .col-sm .col img{
+    border-radius: 15%;
+    float:left;
+    width: 500px;
+    height:285px;
+    margin-top:130px;
+    margin-left: 60px;
+
+}
+
+.container .row{
+    margin-top: 100px;
+}
+
+.container .row{
+    padding-top: 50px;
+}
+
+.container .rings_info h2{
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+.container .rings_info p::first-letter{
+    font-size: 28px;
+    font-weight: 700;
+}
